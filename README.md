@@ -1,4 +1,4 @@
-I will put some stuff here soon!
+Hey! This is Irewynna. I like to code stuff for me and my socials' convience and fun. Do check my portfolio website out at Irewynna.github.io
 
 <!--
 **Irewynna/Irewynna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
